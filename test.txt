@@ -1,2 +1,1 @@
-This is a test file. I added a change.
-
+This is a test file. I added a change. I added another change.
